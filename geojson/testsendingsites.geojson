@@ -1,6 +1,7 @@
 {
 "type": "FeatureCollection",
 "name": "testsendingsites",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
 { "type": "Feature", "properties": { "ID": "1", "Name": "Oakton Elementary SchoolA2:A33", "Address": "436 Ridge Ave,Evanston,Illinois,", "narrative": "charlie about oakton", "sender": "1", "receiver": "0", "examples": "Benton House has a rich history with YTC. This 100 plus year old community center was the host of YTC programs from 2005 -2009, and then served as YTC corporate headquarters from 2009-2017. In 2017, Benton House became the launch point for the Bridgport" }, "geometry": { "type": "Point", "coordinates": [ -9761441.394815785810351, 5167553.224234606139362 ] } },
 { "type": "Feature", "properties": { "ID": "2", "Name": "James B Moran Center for Youth Advocacy", "Address": "1123 Emerson St,Evanston,Illinois,", "narrative": "charlie\/margo\/ fahad", "sender": "1", "receiver": "0", "examples": "Port Ministries provide the fundamental needs of mind, body, and spirit by offering free services and resources to south side Chicago residents.  YTC donated one computer lab and created another to assist the After-School Program, Bread Truck, Health Cli" }, "geometry": { "type": "Point", "coordinates": [ -9761274.415579594671726, 5168867.925146445631981 ] } },
@@ -10,7 +11,5 @@
 { "type": "Feature", "properties": { "ID": "19", "Name": "City of Evanston Youth and Young Adult Department", "Address": "2100 Ridge Ave,Evanston,Illinois,60201", "narrative": null, "sender": "1", "receiver": "0", "examples": null }, "geometry": { "type": "Point", "coordinates": [ -9761317.830181004479527, 5169343.180973374284804 ] } },
 { "type": "Feature", "properties": { "ID": "20", "Name": "First United Methodist Church of Evanston", "Address": "516 Church St,Evanston,Illinois,60201", "narrative": null, "sender": "1", "receiver": "0", "examples": null }, "geometry": { "type": "Point", "coordinates": [ -9760248.049874482676387, 5168059.894766790792346 ] } },
 { "type": "Feature", "properties": { "ID": "21", "Name": "Mitchell American Indian Museum", "Address": "3001 Central St,Evanston,Illinois,60201", "narrative": null, "sender": "1", "receiver": "0", "examples": null }, "geometry": { "type": "Point", "coordinates": [ -9764731.998963635414839, 5170676.122773080132902 ] } },
-{ "type": "Feature", "properties": { "ID": "22", "Name": "Jacob Blake Manor", "Address": "1615 Emerson St,Evanston,Illinois,60201", "narrative": null, "sender": "1", "receiver": "0", "examples": null }, "geometry": { "type": "Point", "coordinates": [ -9762166.084700850769877, 5168830.445412093773484 ] } },
-{ "type": "Feature", "properties": { "ID": "23", "Name": "Ebeneezer Primm Towers", "Address": "1001 Emerson St,Evanston,Illinois,60201", "narrative": null, "sender": "1", "receiver": "0", "examples": null }, "geometry": { "type": "Point", "coordinates": [ -9761065.134936904534698, 5168833.443785413168371 ] } },
 ]
 }
