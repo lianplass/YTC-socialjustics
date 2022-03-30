@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "name": "sendingsites3",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
 { "type": "Feature", "properties": { "ID": "1", "Name": "Oakton Elementary SchoolA2:A33", "Address": "436 Ridge Ave,Evanston,Illinois,", "latitude": 42.04387, "longitude": -87.68852, "narrative": "charlie about oakton", "sender": "1", "receiver": "0", "examples": "Benton House has a rich history with YTC. This 100 plus year old community center was the host of YTC programs from 2005 -2009, and then served as YTC corporate headquarters from 2009-2017. In 2017, Benton House became the launch point for the Bridgport" }, "geometry": { "type": "Point", "coordinates": [ -9761441.394815785810351, 5167553.224234606139362 ] } },
 { "type": "Feature", "properties": { "ID": "2", "Name": "James B Moran Center for Youth Advocacy", "Address": "1123 Emerson St,Evanston,Illinois,", "latitude": 42.05264, "longitude": -87.68702, "narrative": "charlie\/margo\/ fahad", "sender": "1", "receiver": "0", "examples": "Port Ministries provide the fundamental needs of mind, body, and spirit by offering free services and resources to south side Chicago residents.  YTC donated one computer lab and created another to assist the After-School Program, Bread Truck, Health Cli" }, "geometry": { "type": "Point", "coordinates": [ -9761274.415579594671726, 5168867.925146445631981 ] } },
